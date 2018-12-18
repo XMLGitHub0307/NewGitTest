@@ -1,0 +1,21 @@
+${AnsiColor.BRIGHT_CYAN}
+                   ${AnsiColor.BRIGHT_YELLOW}_ooOoo_${AnsiColor.BRIGHT_CYAN}
+                  ${AnsiColor.BRIGHT_YELLOW}o8888888o${AnsiColor.BRIGHT_CYAN}
+                  ${AnsiColor.BRIGHT_YELLOW}88${AnsiColor.BRIGHT_CYAN}" . "${AnsiColor.BRIGHT_YELLOW}88${AnsiColor.BRIGHT_CYAN}
+                  (| -_- |)
+                  O\  =  /O
+               ____/`---'\____
+             .'  \\|     |//  `.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||-  \
+           |   | \\\  -  /// |   |
+           | \_|  ''\---/''  |   |
+           \  .-\__  `-`  ___/-. /
+         ___`. .'  /--.--\  `. . __
+      ."" '<  `.___\_<|>_/___.'  >'"".
+     | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+     \  \ `-.   \_ __\ /__ _/   .-` /  /
+======`-.____`-.___\_____/___.-`____.-'======
+                   `=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             妙解BUG      秒解BUG
